@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6e8e5e1f4922d807dec0efc70ad8eb6",
+    "revision": "77fdd9faf10342167808870630e10657",
     "url": "/Amuiolet/index.html"
   },
   {
-    "revision": "f49dd02e2d0cfa5f9794",
-    "url": "/Amuiolet/static/css/main.f3d87d4f.chunk.css"
+    "revision": "16460fe0e53c6231a7b7",
+    "url": "/Amuiolet/static/css/main.5fa4d12d.chunk.css"
   },
   {
     "revision": "5b22c87594ccc3feecd4",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Amuiolet/static/js/2.007b37a6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f49dd02e2d0cfa5f9794",
+    "revision": "16460fe0e53c6231a7b7",
     "url": "/Amuiolet/static/js/main.cff14e4a.chunk.js"
   },
   {
