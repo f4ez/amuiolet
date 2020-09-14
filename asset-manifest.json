@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Amuiolet/static/css/main.3dc133c6.chunk.css",
+    "main.js": "/Amuiolet/static/js/main.cff14e4a.chunk.js",
+    "main.js.map": "/Amuiolet/static/js/main.cff14e4a.chunk.js.map",
+    "runtime-main.js": "/Amuiolet/static/js/runtime-main.c874a2ca.js",
+    "runtime-main.js.map": "/Amuiolet/static/js/runtime-main.c874a2ca.js.map",
+    "static/js/2.007b37a6.chunk.js": "/Amuiolet/static/js/2.007b37a6.chunk.js",
+    "static/js/2.007b37a6.chunk.js.map": "/Amuiolet/static/js/2.007b37a6.chunk.js.map",
+    "index.html": "/Amuiolet/index.html",
+    "precache-manifest.b57b13973dfb3c4b92f342cbebb29d31.js": "/Amuiolet/precache-manifest.b57b13973dfb3c4b92f342cbebb29d31.js",
+    "service-worker.js": "/Amuiolet/service-worker.js",
+    "static/css/main.3dc133c6.chunk.css.map": "/Amuiolet/static/css/main.3dc133c6.chunk.css.map",
+    "static/js/2.007b37a6.chunk.js.LICENSE.txt": "/Amuiolet/static/js/2.007b37a6.chunk.js.LICENSE.txt",
+    "static/media/Amuiolet.svg": "/Amuiolet/static/media/Amuiolet.75cfa85b.svg",
+    "static/media/eclips.png": "/Amuiolet/static/media/eclips.384896e5.png",
+    "static/media/girl-photo.png": "/Amuiolet/static/media/girl-photo.d5812925.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c874a2ca.js",
+    "static/js/2.007b37a6.chunk.js",
+    "static/css/main.3dc133c6.chunk.css",
+    "static/js/main.cff14e4a.chunk.js"
+  ]
+}
