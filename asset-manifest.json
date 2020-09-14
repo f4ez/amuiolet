@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Amuiolet/static/css/main.201e33cf.chunk.css",
+    "main.css": "/Amuiolet/static/css/main.f3d87d4f.chunk.css",
     "main.js": "/Amuiolet/static/js/main.cff14e4a.chunk.js",
     "main.js.map": "/Amuiolet/static/js/main.cff14e4a.chunk.js.map",
     "runtime-main.js": "/Amuiolet/static/js/runtime-main.c874a2ca.js",
@@ -8,9 +8,9 @@
     "static/js/2.007b37a6.chunk.js": "/Amuiolet/static/js/2.007b37a6.chunk.js",
     "static/js/2.007b37a6.chunk.js.map": "/Amuiolet/static/js/2.007b37a6.chunk.js.map",
     "index.html": "/Amuiolet/index.html",
-    "precache-manifest.9ef1dfdcbaaf6a94cad7e9fb9d123082.js": "/Amuiolet/precache-manifest.9ef1dfdcbaaf6a94cad7e9fb9d123082.js",
+    "precache-manifest.0ef624fd30ccdbaffd92010b4c68a3fe.js": "/Amuiolet/precache-manifest.0ef624fd30ccdbaffd92010b4c68a3fe.js",
     "service-worker.js": "/Amuiolet/service-worker.js",
-    "static/css/main.201e33cf.chunk.css.map": "/Amuiolet/static/css/main.201e33cf.chunk.css.map",
+    "static/css/main.f3d87d4f.chunk.css.map": "/Amuiolet/static/css/main.f3d87d4f.chunk.css.map",
     "static/js/2.007b37a6.chunk.js.LICENSE.txt": "/Amuiolet/static/js/2.007b37a6.chunk.js.LICENSE.txt",
     "static/media/Amuiolet.svg": "/Amuiolet/static/media/Amuiolet.75cfa85b.svg",
     "static/media/eclips.png": "/Amuiolet/static/media/eclips.384896e5.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.c874a2ca.js",
     "static/js/2.007b37a6.chunk.js",
-    "static/css/main.201e33cf.chunk.css",
+    "static/css/main.f3d87d4f.chunk.css",
     "static/js/main.cff14e4a.chunk.js"
   ]
 }
