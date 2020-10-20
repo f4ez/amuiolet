@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Amuiolet/precache-manifest.5e8b0f2d30ffdda3eb40656d42959762.js"
+  "/Amuiolet/precache-manifest.702e331f2eea80854b87e6e88f0b984b.js"
 );
 
 self.addEventListener('message', (event) => {
